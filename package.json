@@ -1,0 +1,33 @@
+{
+  "name": "elastichome",
+  "version": "0.0.1",
+  "description": "elastichome",
+  "main": "server.js",
+  "dependencies": {
+    "director": "~1.2.3",
+    "elasticsearch": "~2.3.1",
+    "express": "~4.6.1",
+    "react": "~0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denisjacquemin/elastichome.git"
+  },
+  "keywords": [
+    "elasticsearch",
+    "node",
+    "reactjs",
+    "director"
+  ],
+  "author": "Denis Jacquemin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denisjacquemin/elastichome/issues"
+  },
+  "homepage": "https://github.com/denisjacquemin/elastichome"
+}
